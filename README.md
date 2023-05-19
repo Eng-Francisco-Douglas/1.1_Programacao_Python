@@ -1,2 +1,2 @@
-# 1.1_Programacao_Python
-Programação em Python estudos e programas
+# 1.1_Python_ALURA
+ Estudos do Curso Python ALURA
